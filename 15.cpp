@@ -21,6 +21,10 @@
     right way to do this is to using double pointers. Sort the list, then fix
     the first the number, use low pointer and high pointer. Remember to jump
     over those numbers being scanned for either low, high and i.
+
+  Comment: Shit, I was not able to resist the temptation to look at others'
+           solutions. This problem is not hard at all. Need to think hard next
+           time.
  */
 
 
